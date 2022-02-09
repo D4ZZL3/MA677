@@ -1,5 +1,5 @@
 # GS3.11
-# Andrew Dai, 
+# Andrew Dai, Biyao Zhang, Yuyang, Li, Yuchen Liu
 
 p.a = seq(.40, 1.0, by=.01)
 p.rej = 1 - pbinom(69, 100, p.a)
